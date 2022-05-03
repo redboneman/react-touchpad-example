@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#app {
+    width: 100%;
+    height: 100vh;
+    overflow: auto;
+}
+
+#container {
+    overflow: hidden;
+    width: 9680px;
+    height: 5000px;
+}
+
+#canvas {
+    width: 9680px;
+    transform-origin: 0 0;
+}
+
+#map {
+    width: 100%;
+}
+
+img {
+    display: block;
+}
